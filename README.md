@@ -31,7 +31,7 @@ Please help improve this workshop - https://goo.gl/TykQf1
 
 ## Previous parts of the workshop
 * Part 1:<br />
-https://github.com/anikiki/sudoku-init-part2
+https://github.com/anikiki/sudoku-init-part1
 
 * Part 2:<br />
 https://github.com/anikiki/sudoku-init-part2
